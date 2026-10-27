@@ -211,4 +211,4 @@ F-Secure Internet Security is provided as a full free version with all features 
 Don’t wait any longer—protect your digital life today with F-Secure Internet Security! Download now and experience safer browsing.
 
 ---
-**Last updated:** 2026-10-27 13:45:11 UTC
+**Last updated:** 2026-10-27 19:04:22 UTC
